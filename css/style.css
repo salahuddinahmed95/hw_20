@@ -1,0 +1,37 @@
+/* font family */
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+</style>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto&display=swap');
+</style>
+
+/* common css */
+  body{
+    font-size: 16px;
+    font-weight: 400;
+    color: #333333;
+  }
+  /* header start */
+     .header{}
+     .c_nav{}
+     .logo{}
+     .menu{}
+     .menu ul li a{}
+     .menu ul li a:hover{}
+  /* header end */
+  /* slider start */
+  /* slider end */
+
+  /* service start */
+     .s_icon{
+      border: 1px solid;
+     }
+  /* service end */
+  /* about us start */
+  .about_us{
+    margin: 100px 0 100px 0;
+
+  }
+  /* about us end */
